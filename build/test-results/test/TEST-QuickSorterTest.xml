@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QuickSorterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-06-28T15:36:37" hostname="ALLSAFETUBE.workdayinternal.com" time="0.036">
+  <properties/>
+  <testcase name="pivotForTree()" classname="QuickSorterTest" time="0.015"/>
+  <testcase name="sortEmptyAndOneElement()" classname="QuickSorterTest" time="0.001"/>
+  <testcase name="pivotForNullAndEmpty()" classname="QuickSorterTest" time="0.002"/>
+  <testcase name="pivotForOne()" classname="QuickSorterTest" time="0.001"/>
+  <testcase name="pivotForSix()" classname="QuickSorterTest" time="0.0"/>
+  <testcase name="pivotForTwo()" classname="QuickSorterTest" time="0.001"/>
+  <testcase name="sortTwoItems()" classname="QuickSorterTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

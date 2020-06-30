@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gettingstartedjunit5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hackerrank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/introToSpringBoot/conference-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/introToSpringBoot/ps-first-spring-boot-app" vcs="Git" />
+  </component>
+</project>
